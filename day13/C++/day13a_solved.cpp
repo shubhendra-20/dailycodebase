@@ -1,3 +1,7 @@
+/*
+* @author : shubhendra singh
+* @github : shubhendra-20
+*/
 #include<iostream>
 using namespace std;
 

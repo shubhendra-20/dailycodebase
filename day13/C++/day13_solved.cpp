@@ -35,7 +35,7 @@ int main()
 
   cout<<"enter no. of terms in series";
   cin>>p;
-  while(i<n)
+  while(i<p)
     {
         cout<<" "<<fibonacci(i);
         i++;
